@@ -4,4 +4,7 @@
     <string name="label_notify">Notificar</string>
     <string name="error_msg_interval">Digite um intervalo.</string>
     <string name="label_pause">Pausar</string>
+    <string name="error_msg_zero_value">O campo deve ser maior que zero</string>
+    <string name="alert_actived">Alarme ativado.</string>
+    <string name="alert_disabled">Alarme desabilitado.</string>
 </resources>
